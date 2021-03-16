@@ -6,4 +6,4 @@ Date: 02/21/2021
 
 # WSU Data Analytics 115 Data Project
 
-Analyze trends for Academy Award finalists in the Best Picture category 
+Analyze trends for Academy Award winners in the Best Picture category 
